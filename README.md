@@ -1,4 +1,4 @@
-<h1>Remote Light Controller Using MSP430 Microcontroller</h1>
+<h1>Remote Light Controller Using a MSP430 Microcontroller</h1>
 
 ![Static Badge](https://img.shields.io/badge/Author-Jared%20Carvente-blue)
 ![Static Badge](https://img.shields.io/badge/Release-December%202024-green)
