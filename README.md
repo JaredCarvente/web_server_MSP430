@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Author-Jared%20Carvente-blue)Add commentMore actions
+![Static Badge](https://img.shields.io/badge/Author-Jared%20Carvente-blue)
 ![Static Badge](https://img.shields.io/badge/Release-December%202024-green)
 ![Static Badge](https://img.shields.io/badge/IDE-Code%20Composer%20Studio-red)
 
